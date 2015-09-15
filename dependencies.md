@@ -1,9 +1,9 @@
 # Google Apps Script Project: cUAMeasure
-This repo (cUAMeasure) was automatically updated on 13 February 2015 21:18:54 GMT by GasGit
+This repo (cUAMeasure) was automatically updated on 15 September 2015 11:46:58 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cUAMeasure
-Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [cUAMeasure is here](https://script.google.com/d/17gzIYCpQ_8jN8rR1mQ8POa5VS5C4TYTiDuEIlpEMQmRGe2S51MvKf2LO/edit?usp=sharing "open in the GAS IDE")
 
 ### Modules of cUAMeasure.gs included in this repo
@@ -16,6 +16,8 @@ no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
-no libraries discovered
+*library*|*identifier*|*version*
+--- | --- | --- 
+Drive API| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)
